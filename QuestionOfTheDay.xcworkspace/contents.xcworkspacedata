@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:StatisticsViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/s528741/Desktop/QuestionOfTheDay/QuestionOfTheDay/VoteViewController.swift">
+   </FileRef>
+   <FileRef
       location = "group:QuestionOfTheDay.xcodeproj">
    </FileRef>
    <FileRef
